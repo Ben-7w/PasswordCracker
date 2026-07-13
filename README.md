@@ -1,6 +1,6 @@
 # PasswordCracker — Mini-Projet 1 : Patron de Conception Simple Factory
 
-*Réalisé par Mouhamadou Ben Abdoulaye Diop — Groupe 13*
+*Réalisé par Groupe 13*
 *Cours de Patrons de Conception — DIC1, École Supérieure Polytechnique (ESP/UCAD), Dakar*
 
 Ce dépôt contient l'implémentation de l'outil `PasswordCracker`, développé dans le cadre du mini-projet 1 du cours de Patrons de Conception. L'outil retrouve un mot de passe en clair à partir de son empreinte MD5, en ligne de commande, en utilisant le patron **Simple Factory**.
